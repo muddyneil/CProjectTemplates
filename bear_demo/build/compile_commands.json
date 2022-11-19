@@ -1,0 +1,62 @@
+[
+  {
+    "arguments": [
+      "C:\\msys64\\clang64\\bin\\cc.exe",
+      "-Wall",
+      "-Os",
+      "-g",
+      "-c",
+      "-o",
+      "E:\\Work\\src\\bear_demo\\output\\main.o",
+      "E:\\Work\\src\\bear_demo\\main\\main.c"
+    ],
+    "directory": "E:\\Work\\src\\bear_demo",
+    "file": "E:\\Work\\src\\bear_demo\\main\\main.c",
+    "output": "E:\\Work\\src\\bear_demo\\output\\main.o"
+  },
+  {
+    "arguments": [
+      "C:\\msys64\\clang64\\bin\\cc.exe",
+      "-Wall",
+      "-Os",
+      "-g",
+      "-c",
+      "-o",
+      "E:\\Work\\src\\bear_demo\\output\\dory.o",
+      "E:\\Work\\src\\bear_demo\\dory\\dory.c"
+    ],
+    "directory": "E:\\Work\\src\\bear_demo",
+    "file": "E:\\Work\\src\\bear_demo\\dory\\dory.c",
+    "output": "E:\\Work\\src\\bear_demo\\output\\dory.o"
+  },
+  {
+    "arguments": [
+      "C:\\msys64\\clang64\\bin\\cc.exe",
+      "-Wall",
+      "-Os",
+      "-g",
+      "-c",
+      "-o",
+      "E:\\Work\\src\\bear_demo\\output\\marlin.o",
+      "E:\\Work\\src\\bear_demo\\marlin\\marlin.c"
+    ],
+    "directory": "E:\\Work\\src\\bear_demo",
+    "file": "E:\\Work\\src\\bear_demo\\marlin\\marlin.c",
+    "output": "E:\\Work\\src\\bear_demo\\output\\marlin.o"
+  },
+  {
+    "arguments": [
+      "C:\\msys64\\clang64\\bin\\cc.exe",
+      "-Wall",
+      "-Os",
+      "-g",
+      "-c",
+      "-o",
+      "E:\\Work\\src\\bear_demo\\output\\nemo.o",
+      "E:\\Work\\src\\bear_demo\\nemo\\nemo.c"
+    ],
+    "directory": "E:\\Work\\src\\bear_demo",
+    "file": "E:\\Work\\src\\bear_demo\\nemo\\nemo.c",
+    "output": "E:\\Work\\src\\bear_demo\\output\\nemo.o"
+  }
+]
